@@ -105,7 +105,8 @@ While KrakVM provides advanced dynamic code execution to drastically slow down, 
 ## 📞 Contact
 
 For inquiries, discussions or **paid projects / freelance work**:  
-**Telegram:** [@azulax1](https://t.me/azulax1)
+**Telegram:** [@azulax1](https://t.me/azulax1)  
+**Discord:** dch002
 
 ## 📄 License
 
