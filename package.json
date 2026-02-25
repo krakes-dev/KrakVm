@@ -1,0 +1,29 @@
+{
+  "name": "krakvm",
+  "version": "1.0.0",
+  "description": "Polymorphic JavaScript Virtual Machine for code protection.",
+  "main": "src/index.js",
+  "bin": {
+    "krakvm": "./bin/krakvm"
+  },
+  "scripts": {
+    "test": "node tests/bitwise.test.js && node tests/nested.test.js",
+    "bench": "node bench/pow.js",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "vm",
+    "obfuscation",
+    "protection",
+    "compiler"
+  ],
+  "author": "KrakVm Team",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.15.0",
+    "astring": "^1.9.0",
+    "estraverse": "^5.3.0",
+    "terser": "^5.46.0",
+    "uglify-js": "^3.19.3"
+  }
+}
