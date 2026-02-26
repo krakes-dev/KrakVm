@@ -58,7 +58,7 @@ Strings and sensitive bytecode configs aren't just conventionally encrypted; the
 Clone the repository and run the setup (requires Node.js):
 
 ```bash
-git clone https://github.com/yourusername/KrakVm.git
+git clone https://github.com/krakes-dev/KrakVm.git
 cd KrakVm
 npm install
 ```
